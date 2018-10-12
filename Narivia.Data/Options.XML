@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Options>
+  <PlayerName>Hori873</PlayerName>
+  <Sound>
+    <Enabled>True</Enabled>
+    <Volume>80</Volume>
+  </Sound>
+  <FullScreen>False</FullScreen>
+  <Resolution>
+    <Width>1024</Width>
+    <Height>640</Height>
+  </Resolution>
+  <AutoSave>True</AutoSave>
+  <MapOverlay>True</MapOverlay>
+</Options>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Abilities>
+  <Ability>
+    <!-- 000 -->
+    <Name>None</Name>
+    <Description>N/A</Description>
+    <IncomeBonus>0</IncomeBonus>
+    <OutcomeBonus>0</OutcomeBonus>
+    <AttackBonus>0</AttackBonus>
+    <DefenceBonus>0</DefenceBonus>
+    <RecruitmentBonus>0</RecruitmentBonus>
+  </Ability>
+</Abilities>

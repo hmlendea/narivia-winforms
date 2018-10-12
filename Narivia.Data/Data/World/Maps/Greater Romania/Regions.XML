@@ -1,0 +1,611 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Regions>
+  <Region>
+    <!-- 000 -->
+    <Name>The Black Sea</Name>
+    <Color>#00A1FF</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>0</Faction>
+  </Region>
+  <Region>
+    <!-- 001 -->
+    <Name>Other Countries</Name>
+    <Color>#000000</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>0</Faction>
+  </Region>
+  <Region>
+    <!-- 002 -->
+    <Name>Oradea</Name>
+    <Color>#FFBF00</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>1</Faction>
+  </Region>
+  <Region>
+    <!-- 003 -->
+    <Name>Cluj-Napoca</Name>
+    <Color>#FF6565</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>2</Faction>
+  </Region>
+  <Region>
+    <!-- 004 -->
+    <Name>Arad</Name>
+    <Color>#A74B00</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>3</Faction>
+  </Region>
+  <Region>
+    <!-- 005 -->
+    <Name>Zalau</Name>
+    <Color>#6556FF</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>4</Faction>
+  </Region>
+  <Region>
+    <!-- 006 -->
+    <Name>Timisoara</Name>
+    <Color>#694B7B</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>5</Faction>
+  </Region>
+  <Region>
+    <!-- 007 -->
+    <Name>Baia Mare</Name>
+    <Color>#70A55F</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>6</Faction>
+  </Region>
+  <Region>
+    <!-- 008 -->
+    <Name>Satu Mare</Name>
+    <Color>#AB3ED6</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>7</Faction>
+  </Region>
+  <Region>
+    <!-- 009 -->
+    <Name>Alba-Iulia</Name>
+    <Color>#9EC300</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>8</Faction>
+  </Region>
+  <Region>
+    <!-- 010 -->
+    <Name>Deva</Name>
+    <Color>#6F6519</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>9</Faction>
+  </Region>
+  <Region>
+    <!-- 011 -->
+    <Name>Resita</Name>
+    <Color>#00A400</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>10</Faction>
+  </Region>
+  <Region>
+    <!-- 012 -->
+    <Name>Bistrita</Name>
+    <Color>#A54FA1</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>11</Faction>
+  </Region>
+  <Region>
+    <!-- 013 -->
+    <Name>Targu Mures</Name>
+    <Color>#FFB550</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>12</Faction>
+  </Region>
+  <Region>
+    <!-- 014 -->
+    <Name>Sibiu</Name>
+    <Color>#FF409D</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>13</Faction>
+  </Region>
+  <Region>
+    <!-- 015 -->
+    <Name>Suceava</Name>
+    <Color>#57A4C0</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>14</Faction>
+  </Region>
+  <Region>
+    <!-- 016 -->
+    <Name>Storojinet</Name>
+    <Color>#B64562</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>15</Faction>
+  </Region>
+  <Region>
+    <!-- 017 -->
+    <Name>Miercurea Ciuc</Name>
+    <Color>#A9E7AF</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>16</Faction>
+  </Region>
+  <Region>
+    <!-- 018 -->
+    <Name>Cernauti</Name>
+    <Color>#4D9D31</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>17</Faction>
+  </Region>
+  <Region>
+    <!-- 019 -->
+    <Name>Brasov</Name>
+    <Color>#8B0000</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>18</Faction>
+  </Region>
+  <Region>
+    <!-- 020 -->
+    <Name>Botosani</Name>
+    <Color>#D19795</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>19</Faction>
+  </Region>
+  <Region>
+    <!-- 021 -->
+    <Name>Hotin</Name>
+    <Color>#D11D00</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>20</Faction>
+  </Region>
+  <Region>
+    <!-- 022 -->
+    <Name>Drobeta-Turnu Severin</Name>
+    <Color>#1D8F78</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>21</Faction>
+  </Region>
+  <Region>
+    <!-- 023 -->
+    <Name>Targu Jiu</Name>
+    <Color>#00FFFF</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>22</Faction>
+  </Region>
+  <Region>
+    <!-- 024 -->
+    <Name>Craiova</Name>
+    <Color>#7FBF00</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>23</Faction>
+  </Region>
+  <Region>
+    <!-- 025 -->
+    <Name>Ramnicu Valcea</Name>
+    <Color>#FFFF00</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>24</Faction>
+  </Region>
+  <Region>
+    <!-- 026 -->
+    <Name>Soroca</Name>
+    <Color>#004C8E</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>25</Faction>
+  </Region>
+  <Region>
+    <!-- 027 -->
+    <Name>Balti</Name>
+    <Color>#9A9A9A</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>26</Faction>
+  </Region>
+  <Region>
+    <!-- 028 -->
+    <Name>Slatina</Name>
+    <Color>#005B74</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>27</Faction>
+  </Region>
+  <Region>
+    <!-- 029 -->
+    <Name>Pitesti</Name>
+    <Color>#FFEBCE</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>28</Faction>
+  </Region>
+  <Region>
+    <!-- 030 -->
+    <Name>Sfantu Gheorge</Name>
+    <Color>#78D662</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>29</Faction>
+  </Region>
+  <Region>
+    <!-- 031 -->
+    <Name>Alexandria</Name>
+    <Color>#FD7800</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>30</Faction>
+  </Region>
+  <Region>
+    <!-- 032 -->
+    <Name>Iasi</Name>
+    <Color>#554700</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>31</Faction>
+  </Region>
+  <Region>
+    <!-- 033 -->
+    <Name>Piatra Neamt</Name>
+    <Color>#552945</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>32</Faction>
+  </Region>
+  <Region>
+    <!-- 034 -->
+    <Name>Bacau</Name>
+    <Color>#CD48CF</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>33</Faction>
+  </Region>
+  <Region>
+    <!-- 035 -->
+    <Name>Chisinau</Name>
+    <Color>#498BC6</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>34</Faction>
+  </Region>
+  <Region>
+    <!-- 036 -->
+    <Name>Orhei</Name>
+    <Color>#498B5B</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>35</Faction>
+  </Region>
+  <Region>
+    <!-- 037 -->
+    <Name>Vaslui</Name>
+    <Color>#FFDD8B</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>36</Faction>
+  </Region>
+  <Region>
+    <!-- 038 -->
+    <Name>Cahul</Name>
+    <Color>#535B52</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>37</Faction>
+  </Region>
+  <Region>
+    <!-- 039 -->
+    <Name>Tighina</Name>
+    <Color>#535B00</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>38</Faction>
+  </Region>
+  <Region>
+    <!-- 040 -->
+    <Name>Cetatea-Alba</Name>
+    <Color>#EAEAEA</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>39</Faction>
+  </Region>
+  <Region>
+    <!-- 041 -->
+    <Name>Ismail</Name>
+    <Color>#96EAEA</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>40</Faction>
+  </Region>
+  <Region>
+    <!-- 042 -->
+    <Name>Galati</Name>
+    <Color>#29221C</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>41</Faction>
+  </Region>
+  <Region>
+    <!-- 043 -->
+    <Name>Focsani</Name>
+    <Color>#294A1C</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>42</Faction>
+  </Region>
+  <Region>
+    <!-- 044 -->
+    <Name>Targoviste</Name>
+    <Color>#584A64</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>43</Faction>
+  </Region>
+  <Region>
+    <!-- 045 -->
+    <Name>Ploiesti</Name>
+    <Color>#CD3150</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>44</Faction>
+  </Region>
+  <Region>
+    <!-- 046 -->
+    <Name>Buzau</Name>
+    <Color>#CD99DC</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>45</Faction>
+  </Region>
+  <Region>
+    <!-- 047 -->
+    <Name>Braila</Name>
+    <Color>#CD9900</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>46</Faction>
+  </Region>
+  <Region>
+    <!-- 048 -->
+    <Name>Tulcea</Name>
+    <Color>#CD99A7</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>47</Faction>
+  </Region>
+  <Region>
+    <!-- 049 -->
+    <Name>Giurgiu</Name>
+    <Color>#CDC782</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>48</Faction>
+  </Region>
+  <Region>
+    <!-- 050 -->
+    <Name>Constanta</Name>
+    <Color>#CDC7FF</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>49</Faction>
+  </Region>
+  <Region>
+    <!-- 051 -->
+    <Name>Slobozia</Name>
+    <Color>#FF0000</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>50</Faction>
+  </Region>
+  <Region>
+    <!-- 052 -->
+    <Name>Bucuresti</Name>
+    <Color>#0000FF</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>51</Faction>
+  </Region>
+  <Region>
+    <!-- 053 -->
+    <Name>Calarasi</Name>
+    <Color>#E9E300</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>52</Faction>
+  </Region>
+  <Region>
+    <!-- 054 -->
+    <Name>Silistra</Name>
+    <Color>#FF9EBE</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>53</Faction>
+  </Region>
+  <Region>
+    <!-- 055 -->
+    <Name>Bazargic</Name>
+    <Color>#00D440</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>54</Faction>
+  </Region>
+  <Region>
+    <!-- 056 -->
+    <Name>Salonta</Name>
+    <Color>#C69D31</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>1</Faction>
+  </Region>
+  <Region>
+    <!-- 057 -->
+    <Name>Beius</Name>
+    <Color>#FFCF10</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>1</Faction>
+  </Region>
+  <Region>
+    <!-- 058 -->
+    <Name>Dej</Name>
+    <Color>#EF5555</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>2</Faction>
+  </Region>
+  <Region>
+    <!-- 059 -->
+    <Name>Turda</Name>
+    <Color>#FF7575</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>2</Faction>
+  </Region>
+  <Region>
+    <!-- 060 -->
+    <Name>Santana</Name>
+    <Color>#973B00</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>3</Faction>
+  </Region>
+  <Region>
+    <!-- 061 -->
+    <Name>Lipova</Name>
+    <Color>#B75B00</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>3</Faction>
+  </Region>
+  <Region>
+    <!-- 062 -->
+    <Name>Simleu Silvaniei</Name>
+    <Color>#7566FF</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>4</Faction>
+  </Region>
+  <Region>
+    <!-- 063 -->
+    <Name>Jibou</Name>
+    <Color>#5546EF</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>4</Faction>
+  </Region>
+  <Region>
+    <!-- 064 -->
+    <Name>Sannicolau Mare</Name>
+    <Color>#593A6B</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>5</Faction>
+  </Region>
+  <Region>
+    <!-- 065 -->
+    <Name>Lugoj</Name>
+    <Color>#795B8B</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>5</Faction>
+  </Region>
+  <Region>
+    <!-- 066 -->
+    <Name>Borsa</Name>
+    <Color>#80B56F</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>6</Faction>
+  </Region>
+  <Region>
+    <!-- 067 -->
+    <Name>Sighetu Marmatiei</Name>
+    <Color>#60954F</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>6</Faction>
+  </Region>
+  <Region>
+    <!-- 068 -->
+    <Name>Negresti-Oas</Name>
+    <Color>#BB4EE6</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>7</Faction>
+  </Region>
+  <Region>
+    <!-- 069 -->
+    <Name>Carei</Name>
+    <Color>#9B2EC6</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>7</Faction>
+  </Region>
+  <Region>
+    <!-- 070 -->
+    <Name>Aiud</Name>
+    <Color>#8EB300</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>8</Faction>
+  </Region>
+  <Region>
+    <!-- 071 -->
+    <Name>Blaj</Name>
+    <Color>#AED310</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>8</Faction>
+  </Region>
+  <Region>
+    <!-- 072 -->
+    <Name>Petrosani</Name>
+    <Color>#7F7F29</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>9</Faction>
+  </Region>
+  <Region>
+    <!-- 073 -->
+    <Name>Brad</Name>
+    <Color>#5F5F09</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>9</Faction>
+  </Region>
+  <Region>
+    <!-- 074 -->
+    <Name>Moldova Noua</Name>
+    <Color>#007000</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>10</Faction>
+  </Region>
+  <Region>
+    <!-- 075 -->
+    <Name>Caransebes</Name>
+    <Color>#00D600</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>10</Faction>
+  </Region>
+</Regions>

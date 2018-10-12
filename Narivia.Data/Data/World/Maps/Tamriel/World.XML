@@ -1,0 +1,14 @@
+﻿<World>
+  <DisplayName>Tamriel</DisplayName>
+  <GameVersion>0.14.138</GameVersion>
+  <BaseRegionIncome>10</BaseRegionIncome>
+  <BaseRegionRecruitment>2</BaseRegionRecruitment>
+  <StartingMoney>150</StartingMoney>
+  <StartingTroops>50</StartingTroops>
+  <StartingReligion>10</StartingReligion>
+  <RecruitmentRate Min="50" Max="100" />
+  <AttackerBonus Min="0" Max="80" />
+  <DefenderBonus Min="20" Max="100" />
+  <MinTroopsAttack>200</MinTroopsAttack>
+  <HealingRate>0</HealingRate>
+</World>

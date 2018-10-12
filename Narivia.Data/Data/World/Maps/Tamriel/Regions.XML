@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Regions>
+  <Region>
+    <!-- 000 -->
+    <Name>Water</Name>
+    <Color>#00A1FF</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>0</Faction>
+  </Region>
+  <Region>
+    <!-- 001 -->
+    <Name>Other Provinces</Name>
+    <Color>#000000</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>0</Faction>
+  </Region>
+  <Region>
+    <!-- 002 -->
+    <Name>Solitude</Name>
+    <Color>#82A1C1</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>1</Faction>
+  </Region>
+  <Region>
+    <!-- 003 -->
+    <Name>Imperial City</Name>
+    <Color>#F0D84B</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>2</Faction>
+  </Region>
+  <Region>
+    <!-- 004 -->
+    <Name>Blacklight</Name>
+    <Color>#7C0B7C</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>3</Faction>
+  </Region>
+  <Region>
+    <!-- 005 -->
+    <Name>Sentinel</Name>
+    <Color>#D94000</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>4</Faction>
+  </Region>
+  <Region>
+    <!-- 006 -->
+    <Name>Daggerfall</Name>
+    <Color>#00D9ff</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>5</Faction>
+  </Region>
+  <Region>
+    <!-- 007 -->
+    <Name>Helstrom</Name>
+    <Color>#18681C</Color>
+    <Resource>0</Resource>
+    <Biome>6</Biome>
+    <Faction>6</Faction>
+  </Region>
+  <Region>
+    <!-- 008 -->
+    <Name>Torval</Name>
+    <Color>#CFD12D</Color>
+    <Resource>0</Resource>
+    <Biome>8</Biome>
+    <Faction>7</Faction>
+  </Region>
+  <Region>
+    <!-- 009 -->
+    <Name>Falinesti</Name>
+    <Color>#AC7B1B</Color>
+    <Resource>0</Resource>
+    <Biome>7</Biome>
+    <Faction>8</Faction>
+  </Region>
+  <Region>
+    <!-- 010 -->
+    <Name>Alinor</Name>
+    <Color>#93D9B6</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>9</Faction>
+  </Region>
+  <Region>
+    <!-- 011 -->
+    <Name>Whiterun</Name>
+    <Color>#FFEC94</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>1</Faction>
+  </Region>
+  <Region>
+    <!-- 012 -->
+    <Name>Dawnstar</Name>
+    <Color>#35EC94</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>1</Faction>
+  </Region>
+  <Region>
+    <!-- 013 -->
+    <Name>Windhelm</Name>
+    <Color>#C3A958</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>1</Faction>
+  </Region>
+  <Region>
+    <!-- 014 -->
+    <Name>Cheydinhal</Name>
+    <Color>#43CE88</Color>
+    <Resource>0</Resource>
+    <Biome>3</Biome>
+    <Faction>2</Faction>
+  </Region>
+  <Region>
+    <!-- 015 -->
+    <Name>Leyawiin</Name>
+    <Color>#FF0000</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>2</Faction>
+  </Region>
+  <Region>
+    <!-- 016 -->
+    <Name>Anvil</Name>
+    <Color>#C3A920</Color>
+    <Resource>0</Resource>
+    <Biome>7</Biome>
+    <Faction>2</Faction>
+  </Region>
+  <Region>
+    <!-- 017 -->
+    <Name>Raven Rock</Name>
+    <Color>#E0A088</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>3</Faction>
+  </Region>
+  <Region>
+    <!-- 018 -->
+    <Name>Necrom</Name>
+    <Color>#AC2B18</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>3</Faction>
+  </Region>
+  <Region>
+    <!-- 019 -->
+    <Name>Port Telvannis</Name>
+    <Color>#3173A2</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>3</Faction>
+  </Region>
+  <Region>
+    <!-- 020 -->
+    <Name>Taneth</Name>
+    <Color>#8EBC4D</Color>
+    <Resource>0</Resource>
+    <Biome>12</Biome>
+    <Faction>4</Faction>
+  </Region>
+  <Region>
+    <!-- 021 -->
+    <Name>Elinhir</Name>
+    <Color>#CA4FB9</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>4</Faction>
+  </Region>
+  <Region>
+    <!-- 022 -->
+    <Name>Dragonstar</Name>
+    <Color>#C48f3B</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>4</Faction>
+  </Region>
+  <Region>
+    <!-- 023 -->
+    <Name>Jehanna</Name>
+    <Color>#4D4296</Color>
+    <Resource>0</Resource>
+    <Biome>3</Biome>
+    <Faction>5</Faction>
+  </Region>
+  <Region>
+    <!-- 024 -->
+    <Name>Wayrest</Name>
+    <Color>#AEB222</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>5</Faction>
+  </Region>
+  <Region>
+    <!-- 5 -->
+    <Name>Camlorn</Name>
+    <Color>#C46242</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>5</Faction>
+  </Region>
+  <Region>
+    <!-- 026 -->
+    <Name>Gideon</Name>
+    <Color>#713982</Color>
+    <Resource>0</Resource>
+    <Biome>6</Biome>
+    <Faction>6</Faction>
+  </Region>
+  <Region>
+    <!-- 027 -->
+    <Name>Archon</Name>
+    <Color>#CBA053</Color>
+    <Resource>0</Resource>
+    <Biome>6</Biome>
+    <Faction>6</Faction>
+  </Region>
+  <Region>
+    <!-- 028 -->
+    <Name>Thorn</Name>
+    <Color>#E35831</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>6</Faction>
+  </Region>
+  <Region>
+    <!-- 029 -->
+    <Name>Rimmen</Name>
+    <Color>#CFD185</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>7</Faction>
+  </Region>
+  <Region>
+    <!-- 030 -->
+    <Name>Corinth</Name>
+    <Color>#CB95A0</Color>
+    <Resource>0</Resource>
+    <Biome>1</Biome>
+    <Faction>7</Faction>
+  </Region>
+  <Region>
+    <!-- 031 -->
+    <Name>Dune</Name>
+    <Color>#8984D6</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>7</Faction>
+  </Region>
+  <Region>
+    <!-- 032 -->
+    <Name>Woodheart</Name>
+    <Color>#40DF3C</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>8</Faction>
+  </Region>
+  <Region>
+    <!-- 033 -->
+    <Name>Southpoint</Name>
+    <Color>#AC487E</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>8</Faction>
+  </Region>
+  <Region>
+    <!-- 034 -->
+    <Name>Elden Root</Name>
+    <Color>#3CB6AB</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>8</Faction>
+  </Region>
+  <Region>
+    <!-- 035 -->
+    <Name>Skywatch</Name>
+    <Color>#D56843</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>9</Faction>
+  </Region>
+  <Region>
+    <!-- 036 -->
+    <Name>Lillandril</Name>
+    <Color>#78B0B0</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>9</Faction>
+  </Region>
+  <Region>
+    <!-- 036 -->
+    <Name>Shimmerene</Name>
+    <Color>#E4D221</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>9</Faction>
+  </Region>
+  <Region>
+    <!-- 037 -->
+    <Name>Markarth</Name>
+    <Color>#F74549</Color>
+    <Resource>0</Resource>
+    <Biome>3</Biome>
+    <Faction>1</Faction>
+  </Region>
+  <Region>
+    <!-- 038 -->
+    <Name>Bruma</Name>
+    <Color>#8EA78C</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>2</Faction>
+  </Region>
+  <Region>
+    <!-- 039 -->
+    <Name>Kragenmoor</Name>
+    <Color>#426DB7</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>3</Faction>
+  </Region>
+  <Region>
+    <!-- 040 -->
+    <Name>Skaven</Name>
+    <Color>#08BF27</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>4</Faction>
+  </Region>
+  <Region>
+    <!-- 041 -->
+    <Name>Wayrest</Name>
+    <Color>#F05EFF</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>5</Faction>
+  </Region>
+  <Region>
+    <!-- 042 -->
+    <Name>Blackrose</Name>
+    <Color>#B3FF4A</Color>
+    <Resource>0</Resource>
+    <Biome>6</Biome>
+    <Faction>6</Faction>
+  </Region>
+  <Region>
+    <!-- 043 -->
+    <Name>Senchal</Name>
+    <Color>#8768F0</Color>
+    <Resource>0</Resource>
+    <Biome>8</Biome>
+    <Faction>7</Faction>
+  </Region>
+  <Region>
+    <!-- 044 -->
+    <Name>Arenthia</Name>
+    <Color>#4DB932</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>8</Faction>
+  </Region>
+  <Region>
+    <!-- 045 -->
+    <Name>Cloudrest</Name>
+    <Color>#BC5787</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>9</Faction>
+  </Region>
+  <Region>
+    <!-- 046 -->
+    <Name>Riften</Name>
+    <Color>#00FF00</Color>
+    <Resource>0</Resource>
+    <Biome>3</Biome>
+    <Faction>1</Faction>
+  </Region>
+  <Region>
+    <!-- 047 -->
+    <Name>Chorrol</Name>
+    <Color>#B94000</Color>
+    <Resource>0</Resource>
+    <Biome>3</Biome>
+    <Faction>2</Faction>
+  </Region>
+  <Region>
+    <!-- 048 -->
+    <Name>Mournhold</Name>
+    <Color>#008273</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>3</Faction>
+  </Region>
+  <Region>
+    <!-- 049 -->
+    <Name>Rihad</Name>
+    <Color>#BDD8FF</Color>
+    <Resource>0</Resource>
+    <Biome>1</Biome>
+    <Faction>4</Faction>
+  </Region>
+  <Region>
+    <!-- 050 -->
+    <Name>Shornhelm</Name>
+    <Color>#4850FF</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>5</Faction>
+  </Region>
+  <Region>
+    <!-- 051 -->
+    <Name>Stormhold</Name>
+    <Color>#FF24C1</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>6</Faction>
+  </Region>
+  <Region>
+    <!-- 052 -->
+    <Name>Orcrest</Name>
+    <Color>#391578</Color>
+    <Resource>0</Resource>
+    <Biome>1</Biome>
+    <Faction>7</Faction>
+  </Region>
+  <Region>
+    <!-- 053 -->
+    <Name>Silvenar</Name>
+    <Color>#D88432</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>8</Faction>
+  </Region>
+  <Region>
+    <!-- 054 -->
+    <Name>Dusk</Name>
+    <Color>#493174</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>9</Faction>
+  </Region>
+  <Region>
+    <!-- 055 -->
+    <Name>Falkreath</Name>
+    <Color>#B79780</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>1</Faction>
+  </Region>
+  <Region>
+    <!-- 056 -->
+    <Name>Bravil</Name>
+    <Color>#68452E</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>2</Faction>
+  </Region>
+  <Region>
+    <!-- 057 -->
+    <Name>Sadrith Mora</Name>
+    <Color>#AEC151</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>3</Faction>
+  </Region>
+  <Region>
+    <!-- 058 -->
+    <Name>Hegathe</Name>
+    <Color>#543ECB</Color>
+    <Resource>0</Resource>
+    <Biome>5</Biome>
+    <Faction>4</Faction>
+  </Region>
+  <Region>
+    <!-- 059 -->
+    <Name>Evermore</Name>
+    <Color>#CED94F</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>5</Faction>
+  </Region>
+  <Region>
+    <!-- 060 -->
+    <Name>Narsis</Name>
+    <Color>#53D9FF</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>6</Faction>
+  </Region>
+  <Region>
+    <!-- 061 -->
+    <Name>Dune</Name>
+    <Color>#E23166</Color>
+    <Resource>0</Resource>
+    <Biome>1</Biome>
+    <Faction>7</Faction>
+  </Region>
+  <Region>
+    <!-- 062 -->
+    <Name>Greenheart</Name>
+    <Color>#328FC8</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>8</Faction>
+  </Region>
+  <Region>
+    <!-- 063 -->
+    <Name>Firsthold</Name>
+    <Color>#468100</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>9</Faction>
+  </Region>
+  <Region>
+    <!-- 064 -->
+    <Name>Winterhold</Name>
+    <Color>#3FBF42</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>1</Faction>
+  </Region>
+  <Region>
+    <!-- 065 -->
+    <Name>Skingrad</Name>
+    <Color>#8E4F9C</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>2</Faction>
+  </Region>
+  <Region>
+    <!-- 066 -->
+    <Name>Skaal Village</Name>
+    <Color>#C63FAC</Color>
+    <Resource>0</Resource>
+    <Biome>11</Biome>
+    <Faction>3</Faction>
+  </Region>
+  <Region>
+    <!-- 067 -->
+    <Name>Taneth</Name>
+    <Color>#DC4AA2</Color>
+    <Resource>0</Resource>
+    <Biome>1</Biome>
+    <Faction>4</Faction>
+  </Region>
+  <Region>
+    <!-- 068 -->
+    <Name>Farrun</Name>
+    <Color>#54A739</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>5</Faction>
+  </Region>
+  <Region>
+    <!-- 069 -->
+    <Name>Soulrest</Name>
+    <Color>#54A7DD</Color>
+    <Resource>0</Resource>
+    <Biome>0</Biome>
+    <Faction>6</Faction>
+  </Region>
+  <Region>
+    <!-- 070 -->
+    <Name>Alabaster</Name>
+    <Color>#B20035</Color>
+    <Resource>0</Resource>
+    <Biome>9</Biome>
+    <Faction>7</Faction>
+  </Region>
+  <Region>
+    <!-- 071 -->
+    <Name>Haven</Name>
+    <Color>#8FBDA0</Color>
+    <Resource>0</Resource>
+    <Biome>8</Biome>
+    <Faction>8</Faction>
+  </Region>
+  <Region>
+    <!-- 072 -->
+    <Name>Sunhold</Name>
+    <Color>#D2206D</Color>
+    <Resource>0</Resource>
+    <Biome>10</Biome>
+    <Faction>9</Faction>
+  </Region>
+</Regions>

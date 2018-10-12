@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Cultures>
+
+	<Culture> <!-- 000 - This is used for alternative textures in case of missing culture-specific ones -->
+		<Name>Default</Name>
+		<Description>The default culture</Description>
+	</Culture>
+
+</Cultures>

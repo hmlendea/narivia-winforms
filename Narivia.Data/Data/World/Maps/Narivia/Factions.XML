@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+  <Faction>
+    <!-- 000 -->
+    <Name>The Sea</Name>
+    <Color>#00A1FF</Color>
+    <Description>The good old water!</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 001 -->
+    <Name>Alpalet</Name>
+    <Color>#300065</Color>
+    <Description>Very proud people, the first to separate from the Rodah Migration.
+
+Their architecture is of an original and ancient style, the most beautifull in the world, and resambles a unique shade of Purple-Blue that cannot be found anywhere else.
+
+They are expansionists and consider themselves the true owners of whole Western Central Island as they were the original colonists in many of this places.</Description>
+    <Ability>0</Ability>
+    <Culture>10</Culture>
+    <Religion>2</Religion>
+  </Faction>
+  <Faction>
+    <!-- 002 -->
+    <Name>Mah Rodah</Name>
+    <Color>#7B7B7B</Color>
+    <Description>The second ever culture of mankind, the original Rodah Migrators and original inhabitants of the Northern Bank.
+
+They are very intelligent people and usually they don't go to war with anyone except the southern Istian people whom they consider their slaves.
+
+They have very powerfull defences wich were build at the end of the First Era to ensure their survival of the Cold War.</Description>
+    <Ability>0</Ability>
+    <Culture>1</Culture>
+    <Religion>1</Religion>
+  </Faction>
+  <Faction>
+    <!-- 003 -->
+    <Name>Caravenna</Name>
+    <Color>#B10000</Color>
+    <Description>They look very honest and peacefull merchants but in reality they are very sly and cunning.
+
+It is not sure when their culture was formed, both Mah Rodah and Alpalet claiming to be separated from theirs.
+
+Their teritorry was very small in the First Era but they ensured their survival by conquering Sporadja and quickly colonizing neighbouring territories, even if they lost most of that colonies soon after that.
+
+They are the master traders of Western Narivia and once were the leaders of the Pegasus Alliance in the War of the Banks.</Description>
+    <Ability>0</Ability>
+    <Culture>11</Culture>
+    <Religion>5</Religion>
+  </Faction>
+  <Faction>
+    <!-- 004 -->
+    <Name>Viristia</Name>
+    <Color>#FFD400</Color>
+    <Description>Very proud and powerfull people.
+
+Very culturally distinct from the other nations of the Central Island. They are believed to have formed soon after Alpalet.
+
+They have never been prey to any other nation, and are being known for their overwhelming defences at Viris.
+
+They are the original Istian people and leaders of the Istian Empire each time it lived.
+
+They are very powerfull in both Attack and Defence and their objective is to reunify the Istian Empire as an everlasting nation and even expand it.
+</Description>
+    <Ability>0</Ability>
+    <Culture>7</Culture>
+    <Religion>4</Religion>
+  </Faction>
+  <Faction>
+    <!-- 005 -->
+    <Name>Meuristia</Name>
+    <Color>#006353</Color>
+    <Description>Also known as "Southern Istians".
+
+Their culture is mostly the same as the Viristian culture. They separated from Viristia in the First Istian Revolution when they liberated themselves from Mah Rodah occupation for the first time. Instead of going at war with Lamiz along their northern brothers, they felt betrayed and separated, naming theyr country Meuristia, wich is the name of the biggest city and their capital.
+
+They are specialized in defence and never give up without a fight.</Description>
+    <Ability>0</Ability>
+    <Culture>7</Culture>
+    <Religion>4</Religion>
+  </Faction>
+  <Faction>
+    <!-- 006 -->
+    <Name>Befteria</Name>
+    <Color>#2D7B00</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>12</Culture>
+    <Religion>5</Religion>
+  </Faction>
+  <Faction>
+    <!-- 007 -->
+    <Name>Ne Quin Arid</Name>
+    <Color>#D3BA8E</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>2</Culture>
+    <Religion>7</Religion>
+  </Faction>
+  <Faction>
+    <!-- 008 -->
+    <Name>Fatima</Name>
+    <Color>#FFACD5</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>2</Culture>
+    <Religion>2</Religion>
+  </Faction>
+  <Faction>
+    <!-- 009 -->
+    <Name>Optimia</Name>
+    <Color>#00AB98</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>4</Culture>
+    <Religion>3</Religion>
+  </Faction>
+  <Faction>
+    <!-- 010 -->
+    <Name>Impera</Name>
+    <Color>#0072FF</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>4</Culture>
+    <Religion>3</Religion>
+  </Faction>
+  <Faction>
+    <!-- 011 -->
+    <Name>Impimia</Name>
+    <Color>#A74B00</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>4</Culture>
+    <Religion>3</Religion>
+  </Faction>
+  <Faction>
+    <!-- 012-->
+    <Name>Faladai</Name>
+    <Color>#82004B</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>2</Culture>
+    <Religion>7</Religion>
+  </Faction>
+  <Faction>
+    <!-- 013 -->
+    <Name>Daria</Name>
+    <Color>#6556FF</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>4</Culture>
+    <Religion>3</Religion>
+  </Faction>
+  <Faction>
+    <!-- 014 -->
+    <Name>Lamiz</Name>
+    <Color>#7EACF8</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>7</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 015 -->
+    <Name>Sudair</Name>
+    <Color>#FFD377</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>2</Culture>
+    <Religion>7</Religion>
+  </Faction>
+  <Faction>
+    <!-- 016 -->
+    <Name>Targat</Name>
+    <Color>#536978</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>1</Culture>
+    <Religion>14</Religion>
+  </Faction>
+  <Faction>
+    <!-- 017 -->
+    <Name>Estaton</Name>
+    <Color>#FF6565</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>2</Culture>
+    <Religion>7</Religion>
+  </Faction>
+  <Faction>
+    <!-- 018 -->
+    <Name>Deshesda</Name>
+    <Color>#00F86A</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>8</Culture>
+    <Religion>13</Religion>
+  </Faction>
+  <Faction>
+    <!-- 019 -->
+    <Name>Altop</Name>
+    <Color>#B25B98</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>7</Culture>
+    <Religion>8</Religion>
+  </Faction>
+  <Faction>
+    <!-- 020 -->
+    <Name>Aaria</Name>
+    <Color>#A56258</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>13</Culture>
+    <Religion>11</Religion>
+  </Faction>
+  <Faction>
+    <!-- 021 -->
+    <Name>Nordodar</Name>
+    <Color>#694B7B</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>13</Culture>
+    <Religion>11</Religion>
+  </Faction>
+  <Faction>
+    <!-- 022 -->
+    <Name>Naryrica</Name>
+    <Color>#FFA577</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>2</Culture>
+    <Religion>7</Religion>
+  </Faction>
+  <Faction>
+    <!-- 023 -->
+    <Name>Ardamus</Name>
+    <Color>#70A55F</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>13</Culture>
+    <Religion>11</Religion>
+  </Faction>
+  <Faction>
+    <!-- 024 -->
+    <Name>Ayako</Name>
+    <Color>#FF00FF</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>3</Culture>
+    <Religion>9</Religion>
+  </Faction>
+  <Faction>
+    <!-- 025 -->
+    <Name>Abeque</Name>
+    <Color>#AE8E00</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>9</Culture>
+    <Religion>10</Religion>
+  </Faction>
+  <Faction>
+    <!-- 026 -->
+    <Name>Amion</Name>
+    <Color>#948F00</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>5</Culture>
+    <Religion>5</Religion>
+  </Faction>
+  <Faction>
+    <!-- 027 -->
+    <Name>Sporadja</Name>
+    <Color>#B2CC6B</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>11</Culture>
+    <Religion>5</Religion>
+  </Faction>
+  <Faction>
+    <!-- 028 -->
+    <Name>Endel</Name>
+    <Color>#C3DF00</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>6</Culture>
+    <Religion>8</Religion>
+  </Faction>
+  <Faction>
+    <!-- 029 -->
+    <Name>Consus</Name>
+    <Color>#FFA400</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>11</Culture>
+    <Religion>6</Religion>
+  </Faction>
+  <Faction>
+    <!-- 030 -->
+    <Name>Jhgrothaar</Name>
+    <Color>#C3EBFF</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>1</Culture>
+    <Religion>6</Religion>
+  </Faction>
+  <Faction>
+    <!-- 031 -->
+    <Name>Antene</Name>
+    <Color>#C3BA00</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>1</Culture>
+    <Religion>6</Religion>
+  </Faction>
+  <Faction>
+    <!-- 032 -->
+    <Name>Bardos</Name>
+    <Color>#653E1C</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>6</Culture>
+    <Religion>12</Religion>
+  </Faction>
+  <Faction>
+    <!-- 033 -->
+    <Name>Gammeland</Name>
+    <Color>#FFFFFF</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>1</Culture>
+    <Religion>6</Religion>
+  </Faction>
+  <Faction>
+    <!-- 034 -->
+    <Name>Ingolfsfell</Name>
+    <Color>#9AFF9A</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>1</Culture>
+    <Religion>6</Religion>
+  </Faction>
+</Factions>

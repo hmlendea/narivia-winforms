@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Resources>
+
+	<Resource> <!-- 000 -->
+		<Name>None</Name>
+	</Resource>
+
+	<Resource> <!-- 001 -->
+		<Name>Gold</Name>
+	</Resource>
+
+	<Resource> <!-- 002 -->
+		<Name>Whales</Name>
+	</Resource>
+
+	<Resource> <!-- 003 -->
+		<Name>Iron</Name>
+	</Resource>
+
+	<Resource> <!-- 004 -->
+		<Name>Wheat</Name>
+	</Resource>
+
+	<Resource> <!-- 005 -->
+		<Name>Grapes</Name>
+	</Resource>
+
+	<Resource> <!-- 006 -->
+		<Name>Slaves</Name>
+	</Resource>
+
+	<Resource> <!-- 007 -->
+		<Name>Horses</Name>
+	</Resource>
+	
+	<Resource> <!-- 008 -->
+		<Name>Wild Animals</Name>
+	</Resource>
+	
+	<Resource> <!-- 009 -->
+		<Name>Camels</Name>
+	</Resource>
+	
+	<Resource> <!-- 010 -->
+		<Name>Fish</Name>
+	</Resource>
+	
+	<Resource> <!-- 011 -->
+		<Name>Silver</Name>
+	</Resource>
+	
+	<Resource> <!-- 012 -->
+		<Name>Pearls</Name>
+	</Resource>
+	
+	<Resource> <!-- 013 -->
+		<Name>Timber</Name>
+	</Resource>
+	
+</Resources>

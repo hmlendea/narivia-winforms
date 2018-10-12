@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Buildings>
+
+	<Building> <!-- 000 -->
+		<Name>None</Name>
+		<Description>The base building of this region</Description>
+		<Price>0</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>0</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>z
+	</Building>
+	
+	<Building> <!-- 002 -->
+		<Name>Tavern</Name>
+		<Description>A place for your people to spend money</Description>
+		<Price>75</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>1</Maintenance>
+		<Income>5</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+
+	<Building> <!-- 002 -->
+		<Name>Farms</Name>
+		<Description>Grows animals as a source of food</Description>
+		<Price>150</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>2</Maintenance>
+		<Income>10</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+
+	<Building> <!-- 003 -->
+		<Name>Barracks</Name>
+		<Description>Trains the people of this region into becoming soldiers for your armies</Description>
+		<Price>250</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>7</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>5</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+
+	<Building> <!-- 004 -->
+		<Name>Market</Name>
+		<Description>The main source of trade in the region</Description>
+		<Price>300</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>5</Maintenance>
+		<Income>20</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 005 -->
+		<Name>Aqueducts</Name>
+		<Description>Brings water in dry areas to increase productivity</Description>
+		<Price>450</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>7</Maintenance>
+		<Income>30</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+
+	<Building> <!-- 006 -->
+		<Name>Mines</Name>
+		<Description>Digs and gathers mineral resources</Description>
+		<Price>600</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>10</Maintenance>
+		<Income>35</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+
+	<Building> <!-- 007 -->
+		<Name>Paved Roads</Name>
+		<Description>Lets your people travel faster</Description>
+		<Price>225</Price>
+		<Maintenance>5</Maintenance>
+		<RequiredResource>0</RequiredResource>
+		<Income>15</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+
+	<Building> <!-- 008 -->
+		<Name>Temple</Name>
+		<Description>A place to pray and obey</Description>
+		<Price>400</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>10</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>1</AttackBonus>
+		<DefenceBonus>1</DefenceBonus>
+		<RecruitmentBonus>1</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+
+	<Building> <!-- 009 -->
+		<Name>Walls</Name>
+		<Description>The main defence line of the city</Description>
+		<Price>2000</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>20</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>10</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 010 -->
+		<Name>Gold Mines</Name>
+		<Description>Digs and gathers gold</Description>
+		<Price>1000</Price>
+		<RequiredResource>1</RequiredResource>
+		<Maintenance>15</Maintenance>
+		<Income>60</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 011 -->
+		<Name>Whalery</Name>
+		<Description>Sends whale-hunting boats to the ocean</Description>
+		<Price>600</Price>
+		<RequiredResource>2</RequiredResource>
+		<Maintenance>10</Maintenance>
+		<Income>40</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 012 -->
+		<Name>Foundry</Name>
+		<Description>The best backsmiths work there</Description>
+		<Price>1000</Price>
+		<RequiredResource>3</RequiredResource>
+		<Maintenance>25</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>5</AttackBonus>
+		<DefenceBonus>5</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 013 -->
+		<Name>Wheat Farms</Name>
+		<Description>Grows and harvests wheat to make bread</Description>
+		<Price>600</Price>
+		<RequiredResource>4</RequiredResource>
+		<Maintenance>10</Maintenance>
+		<Income>40</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 014 -->
+		<Name>Grape Farms</Name>
+		<Description>Grows and harvests grapes to make wine</Description>
+		<Price>600</Price>
+		<RequiredResource>5</RequiredResource>
+		<Maintenance>10</Maintenance>
+		<Income>40</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 015 -->
+		<Name>Slave Market</Name>
+		<Description>A place to buy or sell slaves</Description>
+		<Price>500</Price>
+		<RequiredResource>6</RequiredResource>
+		<Maintenance>5</Maintenance>
+		<Income>20</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 016 -->
+		<Name>Cavalry Barracks</Name>
+		<Description>Top-quality horses for a top-quality army</Description>
+		<Price>500</Price>
+		<RequiredResource>7</RequiredResource>
+		<Maintenance>20</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>10</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 017 -->
+		<Name>Hunting Lodge</Name>
+		<Description>A base of wild animal hunting operations</Description>
+		<Price>500</Price>
+		<RequiredResource>8</RequiredResource>
+		<Maintenance>5</Maintenance>
+		<Income>20</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 018 -->
+		<Name>Caravan</Name>
+		<Description>Sends caravans over vast distances, selling and buying exotic goods</Description>
+		<Price>600</Price>
+		<RequiredResource>9</RequiredResource>
+		<Maintenance>10</Maintenance>
+		<Income>40</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 019 -->
+		<Name>Fishery</Name>
+		<Description>Sends fishing boats to the sea</Description>
+		<Price>500</Price>
+		<RequiredResource>10</RequiredResource>
+		<Maintenance>5</Maintenance>
+		<Income>20</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 020 -->
+		<Name>Silver Mines</Name>
+		<Description>Digs and gathers silver</Description>
+		<Price>600</Price>
+		<RequiredResource>11</RequiredResource>
+		<Maintenance>10</Maintenance>
+		<Income>40</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 021 -->
+		<Name>Pearl Hunting Post</Name>
+		<Description>Sends pearl-hunting boats to the sea</Description>
+		<Price>600</Price>
+		<RequiredResource>12</RequiredResource>
+		<Maintenance>10</Maintenance>
+		<Income>40</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 022 -->
+		<Name>Timber Camp</Name>
+		<Description>Chops down dense forests for wood</Description>
+		<Price>500</Price>
+		<RequiredResource>13</RequiredResource>
+		<Maintenance>5</Maintenance>
+		<Income>20</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 023 -->
+		<Name>Carpenter</Name>
+		<Description>Crafts furniture for this region</Description>
+		<Price>300</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>5</Maintenance>
+		<Income>20</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 024 -->
+		<Name>Public Baths</Name>
+		<Description>A place for people to wash themselves</Description>
+		<Price>150</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>2</Maintenance>
+		<Income>10</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 025 -->
+		<Name>Arena</Name>
+		<Description>A place for people to enjoy gladiatorial battles</Description>
+		<Price>600</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>10</Maintenance>
+		<Income>20</Income>
+		<AttackBonus>1</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>1</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 026 -->
+		<Name>Weapons Blacksmith</Name>
+		<Description>Provides steel weapons for your armies</Description>
+		<Price>300</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>5</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>2</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 027 -->
+		<Name>Armors Blacksmith</Name>
+		<Description>Provides steel armors for your armies</Description>
+		<Price>300</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>5</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>2</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 028 -->
+		<Name>Siege Engineer</Name>
+		<Description>Provides siege equipment for your armies</Description>
+		<Price>600</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>10</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>4</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 029 -->
+		<Name>Tannery</Name>
+		<Description>Provides leather armors for your armies</Description>
+		<Price>150</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>2</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>1</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 030-->
+		<Name>Defensive Castle</Name>
+		<Description>A fortified structure that defends this region</Description>
+		<Price>1500</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>15</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>7</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 031-->
+		<Name>Watchtower</Name>
+		<Description>Helps you defend this region by sighting enemies in time</Description>
+		<Price>1000</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>10</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>5</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 032 -->
+		<Name>Windmill</Name>
+		<Description>Increases food productivity in the region</Description>
+		<Price>150</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>2</Maintenance>
+		<Income>10</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+	
+	<Building> <!-- 033 -->
+		<Name>Statue</Name>
+		<Description>A structure that represents the greatness of your empire</Description>
+		<Price>75</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>1</Maintenance>
+		<Income>5</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>
+	</Building>
+
+</Buildings>

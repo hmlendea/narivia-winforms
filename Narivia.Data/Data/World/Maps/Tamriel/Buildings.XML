@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Buildings>
+
+	<Building> <!-- 000 -->
+		<Name>None</Name>
+		<Description>The base building of this region</Description>
+		<Price>0</Price>
+		<RequiredResource>0</RequiredResource>
+		<Maintenance>0</Maintenance>
+		<Income>0</Income>
+		<AttackBonus>0</AttackBonus>
+		<DefenceBonus>0</DefenceBonus>
+		<RecruitmentBonus>0</RecruitmentBonus>
+		<ReligionInfluence>0</ReligionInfluence>z
+	</Building>
+
+</Buildings>

@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+  <Faction>
+    <!-- 000 -->
+    <Name>None</Name>
+    <Color>#00A1FF</Color>
+    <Description>Other regions</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 001 -->
+    <Name>Bihor</Name>
+    <Color>#FFBF00</Color>
+    <Description>Bihor is a county of Romania, in Crisana, with capital city at Oradea.
+
+Together with Hajdu-Bihar County in Hungary it constitutes the Biharia Euroregion.
+
+Aci locuieste Mlendea.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 002 -->
+    <Name>Cluj</Name>
+    <Color>#FF6565</Color>
+    <Description>Cluj is a county of Romania, in Transylvania, with the capital city at Cluj-Napoca.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 003 -->
+    <Name>Arad</Name>
+    <Color>#A74B00</Color>
+    <Description>Arad is an administrative division (judet) of Romania roughly translated into county in the western part of the country on the border with Hungary, mostly in the region of Crisana and few villages in Banat.
+
+The administrative center of the county lies in the city of Arad.The Arad County is part of the Danube-Cris-Mures-Tisa Euroregion.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 004 -->
+    <Name>Salaj</Name>
+    <Color>#6556FF</Color>
+    <Description>Salaj (a.k.a Land of Silvania) is a county of Romania, in the historical regions of Crisana and Transylvania, with the capital city at Zalau.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 005 -->
+    <Name>Timis</Name>
+    <Color>#694B7B</Color>
+    <Description>Timis is a county (judet) of western Romania, in the historical region Banat, with the county seat at Timisoara.
+
+It is the westernmost and the largest county in Romania in terms of land area.The county is also part of the Danube-Cris-Mures-Tisa euroregion.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 006 -->
+    <Name>Maramures</Name>
+    <Color>#70A55F</Color>
+    <Description>Maramures is a county (judet) of Romania, in the Maramures region.The county seat is Baia Mare.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 007 -->
+    <Name>Satu Mare</Name>
+    <Color>#AB3ED6</Color>
+    <Description>Satu Mare County is a county (judet) of Romania. The capital city is Satu Mare.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 008 -->
+    <Name>Alba</Name>
+    <Color>#9EC300</Color>
+    <Description>Alba is a county (judet) of Romania, in Transylvania, its capital city being Alba-Iulia with a population of 58,861</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 009 -->
+    <Name>Hunedoara</Name>
+    <Color>#6F6519</Color>
+    <Description>Hunedoara is a county (judet) of Romania, in Transylvania, with its capital city at Deva.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 010 -->
+    <Name>Caras-Severin</Name>
+    <Color>#00A400</Color>
+    <Description>Caras-Severin is a county (judet) of Romania, in the historical region of Banat and few villages in Transylvania, with the county seat at Resita.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 011 -->
+    <Name>Bistrita-Nasaud</Name>
+    <Color>#A54FA1</Color>
+    <Description>Bistrita-Nasaud is a county (judet) of Romania, in Transylvania, with the capital city at Bistrita.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 012 -->
+    <Name>Mures</Name>
+    <Color>#FFB550</Color>
+    <Description>Mures is a county (judet) of Romania, in the historical region of Transylvania, with the administrative centre in Targu Mures.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 013 -->
+    <Name>Sibiu</Name>
+    <Color>#FF409D</Color>
+    <Description>Sibiu is a county (judet) of Romania, in the historical region Transylvania, with the capital city Sibiu.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 014 -->
+    <Name>Suceava</Name>
+    <Color>#57A4C0</Color>
+    <Description>Suceava is a county (judet) of Romania, in the historical region of Moldavia (mostly in southern Bucovina) and few villages in Transylvania, with the capital city at Suceava.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 015 -->
+    <Name>Storojinet</Name>
+    <Color>#B64562</Color>
+    <Description>Storojinet was a county (judet) of Romania, in Bucovina, with the capital city at Storojinet.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 016 -->
+    <Name>Harghita</Name>
+    <Color>#A9E7AF</Color>
+    <Description>Harghita is a county (judet) in the center of Romania, in eastern Transylvania, with the county seat at Miercurea Ciuc.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 017 -->
+    <Name>Cernauti</Name>
+    <Color>#4D9D31</Color>
+    <Description>Cernauti was a county (judet) of Romania, in Bucovina, with the capital city at Cernauti.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 018 -->
+    <Name>Brasov</Name>
+    <Color>#8B0000</Color>
+    <Description>Brasov is a county (judet) of Romania, in Transylvania, with the capital city at Brasov.
+
+The county incorporates within its boundaries most of the Medieval "lands" (tari) Burzenland and Fagaras.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 019 -->
+    <Name>Botosani</Name>
+    <Color>#D19795</Color>
+    <Description>Botosani is a county (judet) of Romania, in Moldavia (few villages in Bucovina), with the capital city at Botosani.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 020 -->
+    <Name>Hotin</Name>
+    <Color>#D11D00</Color>
+    <Description>Hotin County was a county in the Principality of Moldavia (1359-1812), the Governorate of Basarabia (1812–1917), the Moldavian Democratic Republic (1917–1918), and the Kingdom of Romania (1918–1940).Its capital was in the city of Hotin (today Khotyn). The territory of the county in currently divided between Ukraine (northern half) and Moldova (southern half).</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 021 -->
+    <Name>Mehedinti</Name>
+    <Color>#1D8F78</Color>
+    <Description>Mehedinți is a county (judet) of Romania.
+
+It is mostly located in the historical province of Oltenia, with one municipality (Orsova) and three communes (Dubova, Eselnița and Svinita) located in Banat.
+
+The county seat is Drobeta-Turnu Severin.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 022 -->
+    <Name>Gorj</Name>
+    <Color>#00FFFF</Color>
+    <Description>Gorj is a county (judet) of Romania, in Oltenia, with its capital city at Targu Jiu.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 023 -->
+    <Name>Dolj</Name>
+    <Color>#7FBF00</Color>
+    <Description>Dolj (meaning "lower Jiu", as opposed to Gorj (upper Jiu)) is a county (judet) of Romania, in Oltenia, with the capital city at Craiova.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 024 -->
+    <Name>Valcea</Name>
+    <Color>#FFFF00</Color>
+    <Description>Valcea is a county (judet) of Romania, in the historical regions of Oltenia and Muntenia (the regions are separated by the Olt River).Its capital city is Ramnicu Valcea.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 025 -->
+    <Name>Soroca</Name>
+    <Color>#004C8E</Color>
+    <Description>Soroca was between 1925 and 1938 a county in the Kingdom of Romania, and, between 1998 and 2003, a county of Moldova. The seat was Soroca.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 026 -->
+    <Name>Balti</Name>
+    <Color>#9A9A9A</Color>
+    <Description>Balti was a county in the Kingdom of Romania between 1925 and 1938 and a county of Moldova from 1998 to 2003, with the seat at Balti.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 027 -->
+    <Name>Olt</Name>
+    <Color>#005B74</Color>
+    <Description>Olt is a county (judet) of Romania, in the historical regions of Oltenia and Muntenia (the regions are separated by the Olt river). The capital city is Slatina.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 028 -->
+    <Name>Arges</Name>
+    <Color>#FFEBCE</Color>
+    <Description>Arges is a county (judet) of Romania, in Muntenia, with the capital city at Pitesti.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 029 -->
+    <Name>Covasna</Name>
+    <Color>#78D662</Color>
+    <Description>Covasna or Kovászna is a county (judet) of Romania, in Transylvania, with the capital city at Sfantu Gheorghe.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 030 -->
+    <Name>Teleorman</Name>
+    <Color>#FD7800</Color>
+    <Description>Teleorman is a county (judet) of Romania, in the historical region Muntenia, with its capital city at Alexandria.
+
+The name Teleorman is of Cumanic origin. It literally means crazy forest (Deli orman) and, by extension, "thick and shadowy forest" in the Cuman language. It can be encountered in other toponyms, such as the Turkish name of the Ludogorie Plateau in northeastern Bulgaria.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 031 -->
+    <Name>Iasi</Name>
+    <Color>#554700</Color>
+    <Description>Iasi is a county (judet) of Romania, in Moldavia, with the administrative seat at Iasi.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 032 -->
+    <Name>Neamt</Name>
+    <Color>#552945</Color>
+    <Description>Neamt is a county (judet) of Romania, in the historic region of Moldavia, with the county seat at Piatra Neamt.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 033 -->
+    <Name>Bacau</Name>
+    <Color>#CD48CF</Color>
+    <Description>Bacau is a county (judet) of Romania, in Moldavia, with its capital city at Bacau.It has one commune, Ghimes-Faget, in Transylvania.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 034 -->
+    <Name>Lapusna</Name>
+    <Color>#498BC6</Color>
+    <Description>Lapusna was between 1925 and 1938 a county (judet) in the Kingdom of Romania, and, between 1998 and 2003, an administrative region of Moldova.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 035 -->
+    <Name>Orhei</Name>
+    <Color>#498B5B</Color>
+    <Description>Orhei was a county (judet) in the Kingdom of Romania between 1925 and 1938 and a county of Moldova from 1998 to 2003, with the seat at Orhei.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 036 -->
+    <Name>Vaslui</Name>
+    <Color>#FFDD8B</Color>
+    <Description>Vaslui is a county (judet) of Romania, in the historical region Moldavia, with the seat at Vaslui.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 037 -->
+    <Name>Cahul</Name>
+    <Color>#535B52</Color>
+    <Description>Cahul County was a county of Basarabia.
+
+In the Middle Ages, its territory belonged to the Falciu County, but after the annexation of Basarabia by the Russian Empire in 1812 it became a county by itself.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 038 -->
+    <Name>Tighina</Name>
+    <Color>#535B00</Color>
+    <Description>Tighina County was between 1925 and 1938 a county (judet) in the Kingdom of Romania, and, between 1998 and 2003, a major subdivision (judet) of Moldova with its capital at Causeni.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 039 -->
+    <Name>Cetatea Alba</Name>
+    <Color>#EAEAEA</Color>
+    <Description>Cetatea-Alba was a county (judet) of Romania, in Basarabia, with the capital city at Cetatea-Alba.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 040 -->
+    <Name>Ismail</Name>
+    <Color>#96EAEA</Color>
+    <Description>Ismail was a county (judet) of Romania, in Basarabia, with the capital city at Ismail.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 041 -->
+    <Name>Galati</Name>
+    <Color>#29221C</Color>
+    <Description>Galati is a county (judet) of Romania, in Moldavia region, with the capital city at Galati.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 042 -->
+    <Name>Vrancea</Name>
+    <Color>#294A1C</Color>
+    <Description>Vrancea is a county (judet) in Romania, with its seat at Focsani.
+
+It is mostly in the historical region of Moldavia but the southern part, below the Milcov River, is in Muntenia.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 043 -->
+    <Name>Dambovita</Name>
+    <Color>#584A64</Color>
+    <Description>Dambovita; previously spelt Dimbovita is a county (judet) of Romania, in Muntenia, with the capital city at Targoviste.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 044 -->
+    <Name>Prahova</Name>
+    <Color>#CD3150</Color>
+    <Description>Prahova is a county (judet) of Romania, in the historical region Muntenia, with the capital city at Ploiesti.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 045 -->
+    <Name>Buzau</Name>
+    <Color>#CD99DC</Color>
+    <Description>Buzau is a county (judet) of Romania, in the historical region Muntenia, with the capital city at Buzau.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 046 -->
+    <Name>Braila</Name>
+    <Color>#CD9900</Color>
+    <Description>Braila is a county (judet) of Romania, in Muntenia, with the capital city at Braila.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 047 -->
+    <Name>Tulcea</Name>
+    <Color>#CD99A7</Color>
+    <Description>Tulcea is a county (judet) of Romania, in the historical region Dobrogea, with the capital city at Tulcea.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 048 -->
+    <Name>Giurgiu</Name>
+    <Color>#CDC782</Color>
+    <Description>Giurgiu is a county (judet) of Romania, in Muntenia, with the capital city at Giurgiu.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 049 -->
+    <Name>Constanta</Name>
+    <Color>#CDC7FF</Color>
+    <Description>Constanta is the name of a county (judet) in the Dobrogea region of Romania. Its capital city is also named Constanta.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 050 -->
+    <Name>Ialomita</Name>
+    <Color>#FF0000</Color>
+    <Description>Ialomita is a county (judet) of Romania, in Muntenia, with the capital city at Slobozia.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 051 -->
+    <Name>Ilfov</Name>
+    <Color>#0000FF</Color>
+    <Description>Ilfov is the county that surrounds Bucharest, the capital of Romania.
+
+It used to be largely rural, but after the fall of communism, many of the county's villages and communes developed into high-income commuter towns, which act like suburbs or satellites of Bucharest.
+
+The gentrification of the county is continuing, with many towns in Ilfov, such as Otopeni, having some of the highest GDP per capital levels in the country.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 052 -->
+    <Name>Calarasi</Name>
+    <Color>#E9E300</Color>
+    <Description>Calarasi is a county (judet) of Romania, in Muntenia, with the county seat at Calarasi.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 053 -->
+    <Name>Durostor</Name>
+    <Color>#FF9EBE</Color>
+    <Description>Durostor was a county (judet) of Romania, in Southern Dobrogea, with the seat at Silistra (then Darstor).The county consisted of 4 districts (plasi): Accadanlar, Curtbunar, Silistra and Turtucaia.The county was neighbored by the counties of Ilfov and Ialomita to the north, Caliacra and Constanta to the east and the Kingdom of Bulgaria to the south.The region was annexed by Romania as a result of the Balkan wars. Bulgaria managed to regain it between 1916 and 1918, but then lost it again after the end of World War I (Treaty of Neuilly).</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 054 -->
+    <Name>Caliacra</Name>
+    <Color>#00D440</Color>
+    <Description>Caliacra was a county (judet) of Romania in the interbellic period, in Southern Dobrogea, with the seat at Bazargic (today Dobrich, Bulgaria).</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+</Factions>

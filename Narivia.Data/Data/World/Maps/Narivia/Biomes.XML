@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Biomes>
+
+	<Biome> <!-- 000 -->
+		<Name>Plains</Name>
+	</Biome>
+	
+	<Biome> <!-- 001 -->
+		<Name>Desert Plains</Name>
+	</Biome>
+	
+	<Biome> <!-- 002 -->
+		<Name>Snow Plains</Name>
+	</Biome>
+	
+	<Biome> <!-- 003 -->
+		<Name>Highland</Name>
+	</Biome>
+	
+	<Biome> <!-- 004 -->
+		<Name>Snow Highland</Name>
+	</Biome>
+	
+	<Biome> <!-- 005 -->
+		<Name>Desert Highland</Name>
+	</Biome>
+	
+	<Biome> <!-- 006 -->
+		<Name>Swamp</Name>
+	</Biome>
+	
+	<Biome> <!-- 007 -->
+		<Name>Semiarid</Name>
+	</Biome>
+	
+	<Biome> <!-- 008 -->
+		<Name>Jungle</Name>
+	</Biome>
+	
+	<Biome> <!-- 009 -->
+		<Name>Forest</Name>
+	</Biome>
+	
+	<Biome> <!-- 010 -->
+		<Name>Mountains</Name>
+	</Biome>
+	
+	<Biome> <!-- 011 -->
+		<Name>Snow Mountains</Name>
+	</Biome>
+	
+	<Biome> <!-- 012 -->
+		<Name>Desert Mountains</Name>
+	</Biome>
+
+</Biomes>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Units>
+
+	<Unit> <!-- 000 - This unit is always autorecruited for free -->
+		<Name>Militia</Name>
+		<Description>The base unit in the game. Weak but useful when in great numbers.</Description>
+		<Price>0</Price>
+		<Maintenance>0</Maintenance>
+    <Attack>1</Attack>
+    <Health>2</Health>
+	</Unit>
+
+	<Unit> <!-- 001 -->
+		<Name>Man-at-Arms</Name>
+		<Description>Balanced unit, better at defence</Description>
+		<Price>3</Price>
+		<Maintenance>0</Maintenance>
+    <Attack>2</Attack>
+    <Health>3</Health>
+	</Unit>
+
+	<Unit> <!-- 002 -->
+		<Name>Maceman</Name>
+		<Description>Fearless warriors that inflict a lot of damage but can be killed easily</Description>
+		<Price>3</Price>
+		<Maintenance>0</Maintenance>
+    <Attack>4</Attack>
+    <Health>1</Health>
+	</Unit>
+
+	<Unit> <!-- 003 -->
+		<Name>Swordsman</Name>
+		<Description>Balanced unit, better at attack</Description>
+		<Price>5</Price>
+		<Maintenance>1</Maintenance>
+    <Attack>4</Attack>
+    <Health>3</Health>
+	</Unit>
+
+	<Unit> <!-- 004 -->
+		<Name>Knight</Name>
+		<Description>Balanced unit, good at leading invasions</Description>
+		<Price>5</Price>
+		<Maintenance>1</Maintenance>
+    <Attack>3</Attack>
+    <Health>4</Health>
+	</Unit>
+
+</Units>

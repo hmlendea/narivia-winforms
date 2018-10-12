@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Religions>
+  <Religion>
+    <!-- 000 This one should never be used as a religion!!!! -->
+    <Name>None</Name>
+    <Description>N/A</Description>
+  </Religion>
+  <Religion>
+    <!-- 001 -->
+    <Name>Rodahian</Name>
+    <Description>The religion that inspired the Rodah Migration</Description>
+  </Religion>
+  <Religion>
+    <!-- 002 -->
+    <Name>Letian</Name>
+    <Description>The Letian Religion</Description>
+  </Religion>
+  <Religion>
+    <!-- 003 -->
+    <Name>Blumiac</Name>
+    <Description>The Blumiac Religion</Description>
+  </Religion>
+  <Religion>
+    <!-- 004 -->
+    <Name>Istian</Name>
+    <Description>The Istian Religion</Description>
+  </Religion>
+  <Religion>
+    <!-- 005 -->
+    <Name>Amiteric</Name>
+    <Description>The Amiteric Religion</Description>
+  </Religion>
+  <Religion>
+    <!-- 006 -->
+    <Name>Gammian</Name>
+    <Description>The first religion ever</Description>
+  </Religion>
+  <Religion>
+    <!-- 007 -->
+    <Name>Aridian</Name>
+    <Description>The Aridian Religion</Description>
+  </Religion>
+  <Religion>
+    <!-- 008 -->
+    <Name>Topian</Name>
+    <Description>The Topian Religion</Description>
+  </Religion>
+  <Religion>
+    <!-- 009 -->
+    <Name>Yoko</Name>
+    <Description>The Yoko Religion</Description>
+  </Religion>
+  <Religion>
+    <!-- 010 -->
+    <Name>Chowo</Name>
+    <Description>The Chowo Religion</Description>
+  </Religion>
+  <Religion>
+    <!-- 011 -->
+    <Name>Santaar</Name>
+    <Description>The Santaar Religion</Description>
+  </Religion>
+  <Religion>
+    <!-- 012 -->
+    <Name>Bardic</Name>
+    <Description>The Bardic Religion</Description>
+  </Religion>
+  <Religion>
+    <!-- 013 -->
+    <Name>Shesan</Name>
+    <Description>The Shesan Religion</Description>
+  </Religion>
+  <Religion>
+    <!-- 014 -->
+    <Name>Gatic</Name>
+    <Description>The Gatic Religion</Description>
+  </Religion>
+</Religions>

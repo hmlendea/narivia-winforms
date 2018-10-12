@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Cultures>
+
+	<Culture> <!-- 000 - This is used for alternative textures in case of missing culture-specific ones -->
+		<Name>Default</Name>
+		<Description>The default culture</Description>
+	</Culture>
+	
+	<Culture> <!-- 001 -->
+		<Name>Nordic</Name>
+		<Description>The culture of the Nords</Description>
+	</Culture>
+	
+	<Culture> <!-- 002 -->
+		<Name>Sudic</Name>
+		<Description>The culture of the Sudics</Description>
+	</Culture>
+	
+	<Culture> <!-- 003 -->
+		<Name>Ayakan</Name>
+		<Description>The culture of the Ayakans</Description>
+	</Culture>
+	
+	<Culture> <!-- 004 -->
+		<Name>Blumiac</Name>
+		<Description>The culture of the Blumians</Description>
+	</Culture>
+	
+	<Culture> <!-- 005 -->
+		<Name>Amionic</Name>
+		<Description>The culture of the people of Amion</Description>
+	</Culture>
+	
+	<Culture> <!-- 006 -->
+		<Name>Barbarian</Name>
+		<Description>The culture of the Barbarians</Description>
+	</Culture>
+	
+	<Culture> <!-- 007 -->
+		<Name>Istian</Name>
+		<Description>The culture of the Istians</Description>
+	</Culture>
+	
+	<Culture> <!-- 008 -->
+		<Name>Shesan</Name>
+		<Description>The culture of the Shesans</Description>
+	</Culture>
+	
+	<Culture> <!-- 009 -->
+		<Name>Chowo</Name>
+		<Description>The culture of the Chowos</Description>
+	</Culture>
+	
+	<Culture> <!-- 010 -->
+		<Name>Letian</Name>
+		<Description>The culture of the Letians</Description>
+	</Culture>
+	
+	<Culture> <!-- 011 -->
+		<Name>Rennjan</Name>
+		<Description>The culture of the Rannans and Sporadjans</Description>
+	</Culture>
+	
+	<Culture> <!-- 012 -->
+		<Name>Befterian</Name>
+		<Description>The culture of the Befterians</Description>
+	</Culture>
+	
+	<Culture> <!-- 013 -->
+		<Name>Rural</Name>
+		<Description>The culture of the rural factions</Description>
+	</Culture>
+
+</Cultures>

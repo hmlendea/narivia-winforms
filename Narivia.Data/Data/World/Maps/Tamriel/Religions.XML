@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Religions>
+  <Religion>
+    <!-- 000 This one should never be used as a religion!!!! -->
+    <Name>None</Name>
+    <Description>N/A</Description>
+  </Religion>
+</Religions>

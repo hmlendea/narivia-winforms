@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+  <Faction>
+    <!-- 000 -->
+    <Name>The Sea</Name>
+    <Color>#00A1FF</Color>
+    <Description>The good old water!</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 001 -->
+    <Name>Skyrim</Name>
+    <Color>#82A1C1</Color>
+    <Description>Skyrim, the northernmost province of Tamriel, is a cold and mountainous region known as the Old Kingdom, Mereth, or the Fatherland. Many past battles have given it a ravaged appearance and many ruins. Though currently inhabited primarily by Nords, the Elves who they replaced had resided there since time immemorial. The sovereign, the High King of Skyrim, is chosen by the Moot, a convention of jarls. A jarl is a regional ruler chosen through heredity and, rarely, through right of arms. The High King typically rules until death, though acts of dishonor, particularly the appearance of cowardice, can lead to the recall and reconsideration of the Moot. Since the Pact of Chieftains was signed in 1E 420, the Moot does not give serious consideration to anyone but the High King's direct heir unless one is not available.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 002 -->
+    <Name>Cyrodiil</Name>
+    <Color>#F0D84B</Color>
+    <Description>Cyrodiil, also known as the Imperial Province, is a province in the south-central region of Tamriel, and the home of a humanoid race known as Imperials. The center of their Empire and seat of governance, Cyrodiil is also known as "the Heartland". The capital of Cyrodiil, and of the whole empire, the Imperial City, is located on an island in the center of the province, which bears the location of White Gold Tower, possibly the most renowned monument of Tamriel. Despite some accounts describing Cyrodiil as a jungle, it has primarily a temperate climate. Some attribute the discrepancy to the apotheosis of Emperor Tiber Septim.</Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 003 -->
+    <Name>Morrowind</Name>
+    <Color>#7C0B7C</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 004 -->
+    <Name>Hammerfell</Name>
+    <Color>#D94000</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 005 -->
+    <Name>High Rock</Name>
+    <Color>#00D9ff</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 006 -->
+    <Name>Argonia</Name>
+    <Color>#18681C</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 007 -->
+    <Name>Elsweyr</Name>
+    <Color>#CFD185</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 008 -->
+    <Name>Valenwood</Name>
+    <Color>#AC7B1B</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+  <Faction>
+    <!-- 009 -->
+    <Name>Alinor</Name>
+    <Color>#93D9B6</Color>
+    <Description>
+    </Description>
+    <Ability>0</Ability>
+    <Culture>0</Culture>
+    <Religion>0</Religion>
+  </Faction>
+</Factions>
