@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{67BCA262-0858-47F0-A1D4-21867D114678}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Narivia</RootNamespace>
+    <AssemblyName>Narivia</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Narivia.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.WMPLib">
+      <HintPath>..\..\..\..\_Resurse\Windows Media Player\Interop.WMPLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Controls\Battle\Battle.cs" />
+    <Compile Include="Classes\Controls\Battle\BattleBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Battle\UnitCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Buildings\BuildingListItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Buildings\BuildingCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Others\CustomGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Others\CustomProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Others\DrawingPlus.cs" />
+    <Compile Include="Forms\frmBattle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBattle.Designer.cs">
+      <DependentUpon>frmBattle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Controls\Others\CustomLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\CustomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CustomForm.Designer.cs">
+      <DependentUpon>CustomForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Others\MinMax.cs" />
+    <Compile Include="Classes\Others\NarivianClass.cs" />
+    <Compile Include="Classes\Others\VersionChecker.cs" />
+    <Compile Include="Classes\World\Ability.cs" />
+    <Compile Include="Classes\World\Biome.cs" />
+    <Compile Include="Classes\World\Building.cs" />
+    <Compile Include="Classes\World\Culture.cs" />
+    <Compile Include="Classes\World\Faction.cs" />
+    <Compile Include="Classes\Others\Log.cs" />
+    <Compile Include="Classes\Others\Options.cs" />
+    <Compile Include="Classes\Others\Sound.cs" />
+    <Compile Include="Classes\World\Region.cs" />
+    <Compile Include="Classes\World\Religion.cs" />
+    <Compile Include="Classes\World\Resource.cs" />
+    <Compile Include="Classes\World\Unit.cs" />
+    <Compile Include="Classes\World\World.cs" />
+    <Compile Include="Classes\Controls\Buildings\BuildingsPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Buildings\BuildingIcon.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Others\Console.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Others\CustomCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Others\CustomCursor.cs" />
+    <Compile Include="Classes\Controls\Buttons\CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Others\CustomComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Others\CustomRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Others\CustomToolTip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Notices\NoticeIcon.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Buttons\PopUpButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Regions\RegionBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Regions\RegionToolTip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controls\Others\CustomPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBuild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBuild.Designer.cs">
+      <DependentUpon>frmBuild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmGame.Designer.cs">
+      <DependentUpon>frmGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmNewGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmNewGame.Designer.cs">
+      <DependentUpon>frmNewGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Notices\Notice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\Notices\Notice.Designer.cs">
+      <DependentUpon>Notice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Notices\NoticeBoard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOptions.Designer.cs">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoadGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoadGame.Designer.cs">
+      <DependentUpon>frmLoadGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmEditor.Designer.cs">
+      <DependentUpon>frmEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRecruit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmRecruit.Designer.cs">
+      <DependentUpon>frmRecruit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSaveGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSaveGame.Designer.cs">
+      <DependentUpon>frmSaveGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDownloadMaps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDownloadMaps.Designer.cs">
+      <DependentUpon>frmDownloadMaps.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Controls\Others\MapListItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\Others\FastBitmap.cs" />
+    <EmbeddedResource Include="Classes\Controls\Buildings\BuildingCard.resx">
+      <DependentUpon>BuildingCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes\Notices\NoticeBoard.resx">
+      <DependentUpon>NoticeBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes\Controls\Regions\RegionBar.resx">
+      <DependentUpon>RegionBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes\Controls\Battle\UnitCard.resx">
+      <DependentUpon>UnitCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBattle.resx">
+      <DependentUpon>frmBattle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CustomForm.resx">
+      <DependentUpon>CustomForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBuild.resx">
+      <DependentUpon>frmBuild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDownloadMaps.resx">
+      <DependentUpon>frmDownloadMaps.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmGame.resx">
+      <DependentUpon>frmGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoadGame.resx">
+      <DependentUpon>frmLoadGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmNewGame.resx">
+      <DependentUpon>frmNewGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes\Notices\Notice.resx">
+      <DependentUpon>Notice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOptions.resx">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEditor.resx">
+      <DependentUpon>frmEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRecruit.resx">
+      <DependentUpon>frmRecruit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSaveGame.resx">
+      <DependentUpon>frmSaveGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Images\Warning.png" />
+    <None Include="Resources\Images\Success.png" />
+    <None Include="Resources\Images\Error.png" />
+    <Content Include="Resources\Images\NariviaLogo.PNG" />
+    <Content Include="Resources\Narivia.ico" />
+    <Content Include="Resources\Images\MissingTexture.PNG" />
+    <None Include="Resources\Images\Stone Bricks.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
