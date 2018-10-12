@@ -1,6 +1,7 @@
 ﻿<World>
   <DisplayName>Narivia</DisplayName>
   <GameVersion>0.14.138</GameVersion>
+  <Assets>Narivia</Assets>
   <BaseRegionIncome>10</BaseRegionIncome>
   <BaseRegionRecruitment>2</BaseRegionRecruitment>
   <StartingMoney>150</StartingMoney>
